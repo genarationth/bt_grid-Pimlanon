@@ -1,6 +1,3 @@
-
-
-
 <h1>#Exercise JSD: Bootstrap Grid </h1> <br>
  1. Create index.html to make a grid of photos of your favorite animal by Bootstrap Cards <br>
  2. Install Bootstrap CDN <br>
